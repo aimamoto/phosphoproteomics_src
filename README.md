@@ -4,6 +4,8 @@ Jain, P. et al. (2025) “Minimal Perturbation of Activation Loop Dynamics Rewir
 
 The R Scripts are numbered in the order of execution, though some parts may be redundant to add cosmetic improvements. The directory and initial input names are given for local settings designed to run in Ubuntu 22.04 and 24.04 LTR and may need to be updated for specific environment.
 
+R version 4.5.1 was used with the following packages:
+
               Package Version
         AnnotationDbi  1.70.0
       clusterProfiler  4.16.0
