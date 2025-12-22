@@ -2,7 +2,9 @@
 Scripts used for SRC phosphoproteomic analysis in HEK293T cells as reported in the manuscript. Please cite:
 Jain, P. et al. (2025) “Minimal Perturbation of Activation Loop Dynamics Rewires Kinase Signaling,” bioRxiv, p. 2025.10.15.682502. doi: 10.1101/2025.10.15.682502
 
-The R Scripts are numbered in the order of execution, though some parts may be redundant to add cosmetic improvements. The directory and initial input names are given for local settings designed to run in Ubuntu 22.04 and 24.04 LTR and may need to be updated for specific environment.
+The R Scripts are numbered in the order of execution in the folder "scripts", though some parts may be redundant to add cosmetic improvements. The folder 'data' in this repository includes the data files used to start the first script "1_LFQpeptideFragPipeAnalystR_filt-vsn-bpca_or_man_251014.R". The scripts that follow the first script will then use these data files and the output files to run. 
+
+IMPORTANT: The directory and initial input names in the scripts are given for local settings in Ubuntu 22.04 and 24.04 LTR. The directory may need to be updated for your specific computing environment. 
 
 R version 4.5.1 was used with the following packages:
 
