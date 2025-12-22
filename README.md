@@ -20,7 +20,7 @@ The R Scripts are numbered in the order of execution, though some parts may be r
             patchwork   1.3.2
          RColorBrewer   1.1.3
               stringr   1.5.2
- SummarizedExperiment  1.38.1
+    SummarizedExperiment  1.38.1
                tibble   3.3.0
                 tidyr   1.3.1
             tidyverse   2.0.0
